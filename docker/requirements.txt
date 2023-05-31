@@ -1,0 +1,38 @@
+
+pip-review
+tqdm
+joblib
+jupyterlab
+jpholiday
+
+pip
+pandas
+
+pandas
+numpy
+scipy
+# xlrd
+# XlsxWriter
+python-math
+scikit-learn
+
+mplfinance
+
+matplotlib
+japanize-matplotlib
+Pillow
+opencv-python
+# folium
+plotly
+#wordcloud
+
+requests
+beautifulsoup4
+lxml
+selenium
+schedule
+
+cython
+polars
+
+typing-extensions==3.7.4.3
