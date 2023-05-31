@@ -7,4 +7,4 @@ docker builder prune
 
 
 ## mount 
-docker run -v /home/wlin/workspace/my-docker-py:/devel -it --name= pyimage:20230531 /bin/bash
+docker run -v /home/xxx/workspace/my-docker-py:/devel -it --name= pyimage:20230531 /bin/bash
